@@ -1,4 +1,4 @@
-# S_BE_SpringBoot
+# S_BE_SpringBoot_CoreBasic
 ## Backend Study #2 SpringBoot_CoreBasic
 
 ### *참고 강의 : **inflearn** 스프링 핵심 원리 - 기본편*
